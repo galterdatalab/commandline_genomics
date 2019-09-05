@@ -15,6 +15,7 @@ Cheatsheets
 * [vi Handout](https://nuitrcs.github.io/commandlineworkshop/vibasics.pdf) from NUIT Research Computing
 * [vi Basic Commonds](https://www.cs.colostate.edu/helpdocs/vi.html) from Colorado State 
 * [vi Cheat Sheet](https://downloads.gosquared.com/help_sheets/10/VI%20Help%20Sheet%20outlined.pdf)
+
 Other resources are available from [NUIT Research Computing's bash and HPC page](https://github.com/nuitrcs/bash_hpc_workshops).
 
 ## Acknowledgement
