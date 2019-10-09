@@ -3,7 +3,7 @@ Materials for the Intro to Command Line for Genomics workshops. This is a 2-part
 
 # Preparation for the class
 ## Software
-Mac users don't need to install anything. Windows users, install a [Bash Shell](https://workshops.rcs.northwestern.edu/install/bash/) before the workshop.
+Mac users don't need to install anything. Windows users, install a [Bash Shell](https://workshops.rcs.northwestern.edu/install/bash/) *before* the workshop. We will not have time to assist you with installing bash during the workshop.
 
 ## Files
 Download the .zip file for this lesson, unzip it and put it **on your computer's desktop**. (Click on the green "Clone or download" button above, and then click on the "Download zip" link.) This file contains the data folder, slides and other materials for the class.
