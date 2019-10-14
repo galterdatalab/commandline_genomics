@@ -1,5 +1,5 @@
 # Intro to the Command Line (with Genomics Examples)
-Materials for the Intro to Command Line for Genomics workshops. This is a 2-part series of workshops intended to introduce users to the command line, using genomic data examples. 
+Materials for the Intro to Command Line Parts 1 and 2 workshops. This is a 2-part series of workshops intended to introduce users to the command line, using genomic data examples. 
 
 # Preparation for the class
 ## Software
