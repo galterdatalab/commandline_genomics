@@ -19,4 +19,4 @@ Cheatsheets
 Other resources are available from [NUIT Research Computing's bash and HPC page](https://github.com/nuitrcs/bash_hpc_workshops).
 
 ## Acknowledgement
-The material for this class mostly follows Introduction to the Command Line from [Data Carpentry Genomics](https://datacarpentry.org/genomics-workshop/), which is lincensed under CC-BY 4.0 licenses by [The Carpentries](https://carpentries.org/) and [Data Carpentry](http://datacarpentry.org/); and [The Unix Shell](http://swcarpentry.github.io/shell-novice/), by [The Carpentries](https://carpentries.org/) and [Software Carpentry Foundation](https://software-carpentry.org/].
+The material for this class mostly follows Introduction to the Command Line from [Data Carpentry Genomics](https://datacarpentry.org/genomics-workshop/), which is lincensed under CC-BY 4.0 licenses by [The Carpentries](https://carpentries.org/) and [Data Carpentry](http://datacarpentry.org/); and [The Unix Shell](http://swcarpentry.github.io/shell-novice/), by [The Carpentries](https://carpentries.org/) and [Software Carpentry Foundation](https://software-carpentry.org/).
