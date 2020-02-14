@@ -13,10 +13,10 @@ Cheatsheets
 * [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/) - basic commands
 * [Linux Command Line Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/pdf/) - basics and a few more intermediate commands
 * [vi Handout](https://nuitrcs.github.io/commandlineworkshop/vibasics.pdf) from NUIT Research Computing
-* [vi Basic Commonds](https://www.cs.colostate.edu/helpdocs/vi.html) from Colorado State 
+* [vi Basic Commands](https://www.cs.colostate.edu/helpdocs/vi.html) from Colorado State 
 * [vi Cheat Sheet](https://downloads.gosquared.com/help_sheets/10/VI%20Help%20Sheet%20outlined.pdf)
 
 Other resources are available from [NUIT Research Computing's bash and HPC page](https://github.com/nuitrcs/bash_hpc_workshops).
 
 ## Acknowledgement
-The material for this class mostly follows Introduction to the Command Line from [Data Carpentry Genomics](https://datacarpentry.org/genomics-workshop/), which is lincensed under CC-BY 4.0 licenses by [The Carpentries](https://carpentries.org/) and [Data Carpentry](http://datacarpentry.org/); and [The Unix Shell](http://swcarpentry.github.io/shell-novice/), by [The Carpentries](https://carpentries.org/) and [Software Carpentry Foundation](https://software-carpentry.org/).
+The material for this class mostly follows Introduction to the Command Line from [Data Carpentry Genomics](https://datacarpentry.org/genomics-workshop/), which is licensed under CC-BY 4.0 licenses by [The Carpentries](https://carpentries.org/) and [Data Carpentry](http://datacarpentry.org/); and [The Unix Shell](http://swcarpentry.github.io/shell-novice/), by [The Carpentries](https://carpentries.org/) and [Software Carpentry Foundation](https://software-carpentry.org/).
